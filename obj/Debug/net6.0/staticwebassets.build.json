@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7S5JsdEGPIt5dpSNXlV5AXYsyQX9+t/idhW/ntqJRjg=",
+  "Source": "apps-hub",
+  "BasePath": "_content/apps-hub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
